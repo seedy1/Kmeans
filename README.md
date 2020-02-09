@@ -1,0 +1,1 @@
+Kmeans demosntration on MNIST 
